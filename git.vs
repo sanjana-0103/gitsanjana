@@ -1,0 +1,2 @@
+hello gitgit add .
+
